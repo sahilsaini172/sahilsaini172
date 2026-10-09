@@ -47,7 +47,7 @@ I am a **Senior Software Engineer** with a specialized focus on **Frontend Engin
 <div align="center">
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages" />
   </a>
 
   <br /><br />
